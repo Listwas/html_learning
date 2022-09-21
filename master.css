@@ -1,0 +1,16 @@
+
+.centered_img{
+  margin-top: 10%;
+}
+
+.button{
+  padding: 20px;
+  width: 150px;
+  border: 2px solid grey;
+  border-radius: 20px;
+}
+
+.center{
+  /* border: 1px dashed red; */
+  position: relative;
+}
